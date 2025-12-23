@@ -1,4 +1,4 @@
-## Hi there 👋<h1 align="center">Adil Raza</h1>
+## Hi there 👋<h1 align="center"> Md Adil Raza</h1>
 
 <p align="center">
 <strong>Frontend Developer</strong> · Python · DSA & OOP Fundamentals
@@ -12,7 +12,7 @@ I build **clean, responsive UIs** and **practical developer tools** ⚙️.
 
 Currently learning **React** to create scalable and maintainable UI systems 🌱.
 
-First-semester Computer Science student, learning and building at a pace that keeps up with **senior-level projects**.
+## First-semester Computer Science student, learning and building at a pace that keeps up with ***senior-level projects***.
 
 ---
 
