@@ -7,7 +7,6 @@
 ---
 
 ## 👋 About
-## 👋 About
 Frontend-focused developer with strong foundations in **Python**, **Data Structures**, and **Object-Oriented Programming**.  
 I build **clean, responsive UIs** and **practical developer tools** ⚙️.
 
