@@ -7,10 +7,13 @@
 ---
 
 ## 👋 About
+## 👋 About
 Frontend-focused developer with strong foundations in **Python**, **Data Structures**, and **Object-Oriented Programming**.  
 I build **clean, responsive UIs** and **practical developer tools** ⚙️.
 
 Currently learning **React** to create scalable and maintainable UI systems 🌱.
+
+First-semester Computer Science student, learning and building at a pace that keeps up with **senior-level projects**.
 
 ---
 
@@ -55,7 +58,7 @@ Clean personal website optimized for **fast load times** and performance ⚡.
 
 ## 🎓 Education
 **B.Tech in Computer Science (AI/ML)**  
-Medhavi Skills University
+Medhavi Skills University (2025 - 2029)
 
 ---
 
