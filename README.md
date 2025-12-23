@@ -60,6 +60,6 @@ Medhavi Skills University
 ---
 
 ## 📫 Contact
-📧 **Email:** your-email@example.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username  
-💻 **GitHub:** https://github.com/your-github-username
+📧 **Email:** adilraza0206@gmail.com  
+💼 **LinkedIn:** www.linkedin.com/in/md-adil-raza-a13406384 
+💻 **GitHub:** www.linkedin.com/in/md-adil-raza-a13406384
