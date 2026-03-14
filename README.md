@@ -1,20 +1,24 @@
 <h1 align="center">Md Adil Raza</h1>
 
 <p align="center">
-Backend Developer • Open Source Contributor • Scientific Python
+Backend Developer • Python Developer • Open Source Contributor
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Contributor;Backend+Developer;Scientific+Python+Developer;Data+&+ML+Tools&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Python+Developer;Open+Source+Contributor;Machine+Learning+Enthusiast;Building+Reliable+Software&center=true&width=520&height=45">
+</p>
+
+<p align="center">
+<i>"Coming together is a beginning, staying together is progress, and working together is success."</i>
 </p>
 
 ---
 
 ## About
 
-Backend-focused developer interested in **scientific computing, data infrastructure and open-source software**.
+Backend-focused developer interested in building reliable software systems, developer tools, and data-driven applications.
 
-Currently contributing to **genomics data tooling** and exploring scalable approaches for data analysis systems.
+I primarily work with **Python-based systems**, backend architectures, and tools that support **data analysis and machine learning workflows**. I enjoy contributing to open-source projects and improving existing systems through thoughtful engineering and clean, maintainable code.
 
 ---
 
@@ -25,8 +29,6 @@ Currently contributing to **genomics data tooling** and exploring scalable appro
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter"/>
 
 <br>
@@ -47,26 +49,50 @@ Currently contributing to **genomics data tooling** and exploring scalable appro
 
 ---
 
-## Open Source
+## Open Source Contributions
 
-Contributor to **malariagen-data-python**, working on improvements in:
+Contributor to open-source projects with experience working on production-grade repositories.
 
-- statistical edge cases
-- CI pipeline stability
-- metadata handling
-- documentation improvements
+Work includes improving code reliability, resolving edge cases, strengthening testing and CI workflows, and improving documentation to support developer collaboration.
 
 ---
 
-## Selected Projects
+## Projects
 
-**Git Commit Analyzer**  
-**Git Commit Analyzer**  
-Tool that fetches repositories using a GitHub username and analyzes commit messages to generate contribution quality scores.
+**Git Commit Analyzer**
 
-**Configurable E-Commerce Platform**  
-Modular backend architecture for configurable e-commerce systems.
+Tool that analyzes repository commit history to understand contribution patterns and developer activity across projects.
+
+**Configurable E-Commerce Platform**
+
+Backend system demonstrating modular architecture, configurable product logic, and scalable database-driven design.
 
 ---
 
-⭐ Interested in impactful open source collaboration.
+## Connect
+
+<p align="left">
+
+<a href="mailto:adilraza0206@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/adilraza99">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-adil-raza-a13406384">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## Contribution Graph
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Interested in building reliable open-source tools for **data analysis and scientific computing**.
